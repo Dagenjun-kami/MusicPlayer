@@ -15,7 +15,7 @@
 #### 使用技术
 1.  vue + vue-router + vuex + element-ui实现
 2.  使用axios进行接口的请求封装
-3.  使用Binaryify大神封装的网易云api  
+3.  使用Binaryify封装的网易云api  
 [网易云音乐 API](https://autumnfish.cn/)
 
-#### 项目截图
+
